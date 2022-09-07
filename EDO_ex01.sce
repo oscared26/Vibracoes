@@ -1,3 +1,4 @@
+//--Carga de um capacitor
 //--Solução analitica
 es=1;
 R=1;
